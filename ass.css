@@ -1,0 +1,34 @@
+/* Styling for the title */
+.title {
+    font-family: Arial, sans-serif;
+    color: #2dbe0f;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Paragraph styling using an ID */
+#intro {
+    font-size: 18px;
+    color: #aabb14;
+    padding: 10px;
+    border: 2px solid #290ccf;
+    margin: 20px;
+    text-align: center;
+}
+
+/* Styling an image */
+.styled-image {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+    border: 5px solid #e74c3c;
+    padding: 5px;
+}
+
+/* General body styling */
+body {
+    background-color: #ecf0f1;
+    font-family: 'Verdana', sans-serif;
+    padding: 20px;
+}
